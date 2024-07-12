@@ -1,0 +1,4 @@
+Max messages: 134
+Min messages: 83
+Mean messages: 115.22222222222223
+Standard Deviation: 16.253394707142654

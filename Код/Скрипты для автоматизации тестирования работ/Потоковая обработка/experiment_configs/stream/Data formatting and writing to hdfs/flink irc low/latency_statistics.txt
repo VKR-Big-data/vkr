@@ -1,0 +1,4 @@
+Min Latency: 2
+Max Latency: 11
+Mean Latency: 3.6233333333333335
+Standard Deviation: 1.6232032802113507

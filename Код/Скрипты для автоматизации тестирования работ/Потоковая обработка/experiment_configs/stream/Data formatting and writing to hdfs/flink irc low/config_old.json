@@ -1,0 +1,7 @@
+{
+    "experiment_duration": 100,
+    "streamers": [
+        "tarik"
+    ],
+    "flink_job_name": "IRCClientFlinkJob"
+}

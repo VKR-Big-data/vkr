@@ -1,0 +1,9 @@
+2024-06-07T12:02:42.216127+0300 SUCCESS Successfully initialized current try directory and saved old config!
+2024-06-07T12:02:42.217123+0300 INFO Checking availibility of required services!
+2024-06-07T12:02:44.246013+0300 SUCCESS Successfully connected to IRC Socket Server on port 5000
+2024-06-07T12:02:44.249021+0300 SUCCESS Successfully submitted job!
+2024-06-07T12:02:46.275580+0300 SUCCESS Successfully added channel: tarik
+2024-06-07T12:02:48.330493+0300 SUCCESS Successfully added channel: iltw1
+2024-06-07T12:02:50.375883+0300 SUCCESS Successfully added channel: leva2k
+2024-06-07T12:04:33.889656+0300 SUCCESS Successfully cleared channels!
+2024-06-07T12:04:33.891605+0300 SUCCESS Experiment completed successfully!

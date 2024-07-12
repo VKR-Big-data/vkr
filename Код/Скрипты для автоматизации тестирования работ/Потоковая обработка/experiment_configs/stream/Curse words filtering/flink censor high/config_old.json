@@ -1,0 +1,15 @@
+{
+    "experiment_duration": 100,
+    "streamers": [
+        "tarik",
+        "valorant",
+        "summit1g",
+        "leva2k",
+        "limitlessqt",
+        "resolut1ontv",
+        "vovapain",
+        "9class",
+        "r0xieee"
+    ],
+    "flink_job_name": "IRCClientFlinkJob"
+}
